@@ -1,7 +1,7 @@
 # TopMLConf
 **Top-tier Conferences in Biomedical Engineering, Machine Learning, and Neuroscience**
 
-## Brain & Neuroscience
+## Neuroscience
 **Neural Signal Analysis / Neuroengineering / Neuromodulation / Neurosurgery / Neurophysiology:**
 
 - [SfN (Society for Neuroscience)](https://www.sfn.org/) | October-November
@@ -25,7 +25,7 @@
 - [ASPN (American Society of Pain and Neuroscience)](https://aspnpain.com/) | July
 
 ## Biomedical Engineering
-**Medical Imaging Analysis / Biological Signal Processing**
+**Medical Imaging Analysis / Biological Signal Processing:**
 
 - [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/) | July
 - [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/) | April
@@ -42,7 +42,7 @@
 - [MIDL (Medical Imaging with Deep Learning)](https://midl.io/) | July
 
 ## Machine Learning
-**Artificial Intelligence / Deep Learning / Computer Vision / Neural Networks**
+**Artificial Intelligence / Deep Learning / Computer Vision / Neural Networks:**
 
 - [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/) | December
 - [ICML (International Conference on Machine Learning)](https://icml.cc/) | July
