@@ -25,18 +25,19 @@
 - [EFIC (European Pain Federation)](https://europeanpainfederation.eu/) | September (Biennial)
 - [ASPN (American Society of Pain and Neuroscience)](https://aspnpain.com/) | July
 
-## Biomedical Engineering & Biological Signal Processing
+## Biomedical Science & Engineering
+**Medical Imaging Analysis / Biological Signal Processing**
 
-- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) — *July*
-- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/2024/) — *April*
-- [IEEE BHI (Biomedical and Health Informatics Conference)](https://bhi.embs.org/) — *March*
-- [IEEE BioCAS (Biomedical Circuits and Systems Conference)](https://www.biocas2024.org/) — *October*
-- [REHAB Week (Rehabilitation Engineering and Assistive Technology Society)](https://www.rehabweek.org/) — *September (biennial)*
-- [IFMBE World Congress](https://www.ifmbe.org/) — *Every 3 years, next in 2025*
-- [ICASSP (International Conference on Acoustics, Speech, and Signal Processing)](https://2024.ieeeicassp.org/) — *April/May*
-- [EUSIPCO (European Signal Processing Conference)](https://eusipco2024.org/) — *September*
+- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) | July
+- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/2024/) | April
+- [IEEE BHI (Biomedical and Health Informatics Conference)](https://bhi.embs.org/) | March
+- [IEEE BioCAS (Biomedical Circuits and Systems Conference)](https://www.biocas2024.org/) | October
+- [REHAB Week (Rehabilitation Engineering and Assistive Technology Society)](https://www.rehabweek.org/) | September (Biennial)
+- [IFMBE World Congress](https://www.ifmbe.org/) | Every Three Years
+- [ICASSP (International Conference on Acoustics, Speech, and Signal Processing)](https://2024.ieeeicassp.org/) | April-May
+- [EUSIPCO (European Signal Processing Conference)](https://eusipco2024.org/) | September
 
-## Medical Imaging Applications
+##  Applications
 
 - [RSNA (Radiological Society of North America)](https://www.rsna.org/) — *November/December*
 - [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) — *February*
