@@ -1,15 +1,15 @@
 # TopMLConf
-**Top-tier Conferences in Machine Learning, Neuroscience, and Biomedical Engineering**
+**Top-tier Conferences in Biomedical Engineering, Machine Learning, and Neuroscience**
 
-## Artificial Intelligence / Machine Learning
+## Artificial Intelligence/Machine Learning
 
 - [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/) | December
 - [ICML (International Conference on Machine Learning)](https://icml.cc/) | July
-- [ICLR (International Conference on Learning Representations)](https://iclr.cc/) — *May*
-- [AAAI (Association for the Advancement of Artificial Intelligence)](https://www.aaai.org/) — *February*
-- [AISTATS (Artificial Intelligence and Statistics)](https://www.aistats.org/) — *April*
-- [IJCAI (International Joint Conference on Artificial Intelligence)](https://www.ijcai.org/) — *August*
-- [ECAI (European Conference on Artificial Intelligence)](https://www.eurai.org/conferences/ecai) — *Biennial (August/September)*
+- [ICLR (International Conference on Learning Representations)](https://iclr.cc/) | May
+- [AAAI (Association for the Advancement of Artificial Intelligence)](https://www.aaai.org/) | February
+- [AISTATS (Artificial Intelligence and Statistics)](https://www.aistats.org/) | April
+- [IJCAI (International Joint Conference on Artificial Intelligence)](https://www.ijcai.org/) | August
+- [ECAI (European Conference on Artificial Intelligence)](https://ecai2025.org/) | Biennial (Vary)
 
 ## Computer Vision
 
