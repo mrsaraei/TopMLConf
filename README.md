@@ -9,7 +9,6 @@
 - [CNS (Cognitive Neuroscience Society)](https://www.cogneurosociety.org/) | March-April
 - [FENS (Federation of European Neuroscience Societies)](https://www.fens.org/) | July (Biennial, Even Years)
 - [IEEE Brain](https://brain.ieee.org/) | Various Events Year-Round
-- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) | July
 - [NANS (North American Neuromodulation Society)](https://conference.neuromodulation.org/) | January
 - [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) | June (Biennial)
 - [GTEC BCI & Neurotechnology Summer School](https://www.gtec.at/) | July
@@ -28,24 +27,19 @@
 ## Biomedical Science & Engineering
 **Medical Imaging Analysis / Biological Signal Processing**
 
-- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) | July
-- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/2024/) | April
+- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/) | July
+- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/) | April
 - [IEEE BHI (Biomedical and Health Informatics Conference)](https://bhi.embs.org/) | March
-- [IEEE BioCAS (Biomedical Circuits and Systems Conference)](https://www.biocas2024.org/) | October
+- [IEEE BioCAS (Biomedical Circuits and Systems Conference)](https://ieee-biocas.org/) | October
 - [REHAB Week (Rehabilitation Engineering and Assistive Technology Society)](https://www.rehabweek.org/) | September (Biennial)
 - [IFMBE World Congress](https://www.ifmbe.org/) | Every Three Years
-- [ICASSP (International Conference on Acoustics, Speech, and Signal Processing)](https://2024.ieeeicassp.org/) | April-May
-- [EUSIPCO (European Signal Processing Conference)](https://eusipco2024.org/) | September
-
-##  Applications
-
-- [RSNA (Radiological Society of North America)](https://www.rsna.org/) — *November/December*
-- [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) — *February*
-- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/2024/) — *April*
-- [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) — *July*
-- [MICCAI (Medical Image Computing and Computer Assisted Intervention)](https://conferences.miccai.org/) — *October*
-- [IPCAI (Information Processing in Computer-Assisted Interventions)](https://www.ipcai.org/) — *June*
-- [MIDL (Medical Imaging with Deep Learning)](https://2024.midl.io/) — *July*
+- [ICASSP (International Conference on Acoustics, Speech, and Signal Processing)](https://ieeeicassp.org/) | April-May
+- [EUSIPCO (European Signal Processing Conference)](https://eusipco2025.org/) | September
+- [RSNA (Radiological Society of North America)](https://www.rsna.org/) | November-December
+- [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) | February
+- [ISBI (IEEE International Symposium on Biomedical Imaging)](https://www.biomedicalimaging.org/) | April
+- [MICCAI (Medical Image Computing and Computer Assisted Intervention)](https://conferences.miccai.org/) | October
+- [MIDL (Medical Imaging with Deep Learning)](https://midl.io/) | July
 
 ## Artificial Intelligence/Machine Learning/Computer Vision
 
