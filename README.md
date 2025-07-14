@@ -1,17 +1,14 @@
 # TopMLConf
 **Top-tier Conferences in Biomedical Engineering, Machine Learning, and Neuroscience**
 
-## Neuroscience and Neuroengineering
+## Neuroscience/Neuroengineering/Neuromodulation/Neurosurgery/Neurophysiology
 
-- [SfN (Society for Neuroscience)](https://www.sfn.org/) — *October/November*
+- [SfN (Society for Neuroscience)](https://www.sfn.org/) | October/November
 - [OHBM (Organization for Human Brain Mapping)](https://www.humanbrainmapping.org/) — *June*
 - [CNS (Cognitive Neuroscience Society)](https://www.cogneurosociety.org/) — *March/April*
 - [FENS (Federation of European Neuroscience Societies)](https://www.fens.org/) — *July (biennial, even years)*
 - [Neuroergonomics Conference](https://www.neuroergonomicsconference.org/) — *Biennial (Summer)*
 - [IEEE Brain](https://brain.ieee.org/) — *Various events year-round*
-
-## Neuroengineering / Neuromodulation / EEG / BCI
-
 - [Neurotechnology Industry Organization Events](https://www.neurotechindustry.org/events.html) — *Various*
 - [IEEE SMC Brain-Machine Interface Workshop](https://ieeesmc.org/) — *October*
 - [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/2024/) — *July*
@@ -19,6 +16,18 @@
 - [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) — *June (biennial)*
 - [GTEC BCI & Neurotechnology Summer School](https://www.gtec.at/) — *July*
 - [BNCI Horizon 2020 Workshops](https://bnci-h2020.eu/) — *Various*
+- [AANS (American Association of Neurological Surgeons)](https://www.aans.org/) — *April*
+- [CNS (Congress of Neurological Surgeons)](https://www.cns.org/) — *September/October*
+- [WFNS (World Federation of Neurosurgical Societies)](https://www.wfns.org/) — *Biennial*
+- [ACNS (American Clinical Neurophysiology Society)](https://www.acns.org/) — *February*
+- [ISIN (International Society of Intraoperative Neurophysiology)](https://www.isin-europe.com/) — *Biennial (Fall)*
+- [ECNS (American Clinical Neurophysiology Society)](https://www.acns.org/) — *February*
+- [IASP (International Association for the Study of Pain)](https://www.iasp-pain.org/) — *September (biennial)*
+- [NANS (North American Neuromodulation Society)](https://conference.neuromodulation.org/) — *January*
+- [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) — *June (biennial)*
+- [AAPM (American Academy of Pain Medicine)](https://painmed.org/) — *March*
+- [EFIC (European Pain Federation)](https://europeanpainfederation.eu/) — *September (biennial)*
+- [ASPN (American Society of Pain and Neuroscience)](https://aspnpain.com/) — *July*
 
 ## Biomedical Engineering & Biological Signal Processing
 
@@ -28,24 +37,6 @@
 - [IEEE BioCAS (Biomedical Circuits and Systems Conference)](https://www.biocas2024.org/) — *October*
 - [REHAB Week (Rehabilitation Engineering and Assistive Technology Society)](https://www.rehabweek.org/) — *September (biennial)*
 - [IFMBE World Congress](https://www.ifmbe.org/) — *Every 3 years, next in 2025*
-
-## Neurosurgery & Clinical Neurophysiology
-
-- [AANS (American Association of Neurological Surgeons)](https://www.aans.org/) — *April*
-- [CNS (Congress of Neurological Surgeons)](https://www.cns.org/) — *September/October*
-- [WFNS (World Federation of Neurosurgical Societies)](https://www.wfns.org/) — *Biennial*
-- [ACNS (American Clinical Neurophysiology Society)](https://www.acns.org/) — *February*
-- [ISIN (International Society of Intraoperative Neurophysiology)](https://www.isin-europe.com/) — *Biennial (Fall)*
-- [ECNS (American Clinical Neurophysiology Society)](https://www.acns.org/) — *February*
-
-## Pain Research and Neuromodulation
-
-- [IASP (International Association for the Study of Pain)](https://www.iasp-pain.org/) — *September (biennial)*
-- [NANS (North American Neuromodulation Society)](https://conference.neuromodulation.org/) — *January*
-- [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) — *June (biennial)*
-- [AAPM (American Academy of Pain Medicine)](https://painmed.org/) — *March*
-- [EFIC (European Pain Federation)](https://europeanpainfederation.eu/) — *September (biennial)*
-- [ASPN (American Society of Pain and Neuroscience)](https://aspnpain.com/) — *July*
 
 ## Artificial Intelligence/Machine Learning
 
