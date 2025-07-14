@@ -24,7 +24,7 @@
 - [EFIC (European Pain Federation)](https://europeanpainfederation.eu/) | September (Biennial)
 - [ASPN (American Society of Pain and Neuroscience)](https://aspnpain.com/) | July
 
-## Biomedical Science & Engineering
+## Biomedical Engineering
 **Medical Imaging Analysis / Biological Signal Processing**
 
 - [EMBC (IEEE Engineering in Medicine and Biology Conference)](https://embc.embs.org/) | July
@@ -41,7 +41,8 @@
 - [MICCAI (Medical Image Computing and Computer Assisted Intervention)](https://conferences.miccai.org/) | October
 - [MIDL (Medical Imaging with Deep Learning)](https://midl.io/) | July
 
-## Artificial Intelligence/Machine Learning/Computer Vision
+## Machine Learning
+**Artificial Intelligence / Deep Learning / Computer Vision / Neural Networks**
 
 - [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/) | December
 - [ICML (International Conference on Machine Learning)](https://icml.cc/) | July
@@ -49,17 +50,15 @@
 - [AAAI (Association for the Advancement of Artificial Intelligence)](https://www.aaai.org/) | February
 - [AISTATS (Artificial Intelligence and Statistics)](https://www.aistats.org/) | April
 - [IJCAI (International Joint Conference on Artificial Intelligence)](https://www.ijcai.org/) | August
-- [ECAI (European Conference on Artificial Intelligence)](https://ecai2025.org/) | Biennial (Vary)
-- [CVPR (Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/) — *June*
-- [ICCV (International Conference on Computer Vision)](https://iccv2023.thecvf.com/) — *October (biennial, odd years)*
-- [ECCV (European Conference on Computer Vision)](https://eccv2024.eu/) — *October (biennial, even years)*
-- [WACV (Winter Conference on Applications of Computer Vision)](https://wacv2024.thecvf.com/) — *January*
-- [ACM MM (ACM Multimedia)](https://www.acmmm.org/) — *October*
-- [ICPR (International Conference on Pattern Recognition)](https://www.icpr2024.org/) — *December (biennial)*
-- [FG (IEEE Face and Gesture Recognition)](https://fg2024.ieee-biometrics.org/) — *May (biennial)*
-- [ACCV (Asian Conference on Computer Vision)](https://accv2024.org/) — *December (biennial, even years)*
-- [BMVC (British Machine Vision Conference)](https://www.bmvc2024.org/) — *September*
-- [ICIP (International Conference on Image Processing)](https://2024.ieeeicip.org/) — *October*
+- [ECAI (European Conference on Artificial Intelligence)](https://ecai2025.org/) | Biennial (Various Events Year-Round)
+- [CVPR (Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/) | June
+- [ICCV (International Conference on Computer Vision)](https://iccv.thecvf.com/) | October (Biennial, Odd Years)
+- [ECCV (European Conference on Computer Vision)](https://eccv.ecva.net/) | October (Biennial, Even Years)
+- [WACV (Winter Conference on Applications of Computer Vision)](https://wacv.thecvf.com/) | January
+- [ACM MM (ACM Multimedia)](https://www.acmmm.org/) | October
+- [ICPR (International Conference on Pattern Recognition)](https://www.icpr.org/) | December (Biennial)
+- [FG (IEEE Face and Gesture Recognition)](https://fg2025.ieee-biometrics.org/) | May (Biennial)
+- [ICIP (International Conference on Image Processing)](https://2024.ieeeicip.org/) | October
 
 ## Contributions
 Feel free to submit a pull request to add new conferences or update outdated links.
