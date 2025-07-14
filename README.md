@@ -61,4 +61,9 @@
 - [ICIP (International Conference on Image Processing)](https://2024.ieeeicip.org/) | October
 
 ## Contributions
-Feel free to submit a pull request to add new conferences or update outdated links.
+> I welcome contributions to help keep this list accurate and up to date.  
+> If you'd like to suggest a new conference or update existing information, feel free to submit a **pull request**.
+
+---
+© 2025 **Mohammadreza Saraei** · All rights reserved!  
+📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
