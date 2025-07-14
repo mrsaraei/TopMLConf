@@ -1,4 +1,4 @@
-# TopMLConf
+# TopNeuroMLConf
 **Top-tier Conferences in Biomedical Engineering, Machine Learning, and Neuroscience**
 
 ## Neuroscience
