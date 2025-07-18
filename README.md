@@ -9,14 +9,15 @@
 - [CNS (Cognitive Neuroscience Society)](https://www.cogneurosociety.org/) | March-April
 - [FENS (Federation of European Neuroscience Societies)](https://www.fens.org/) | July (Biennial, Even Years)
 - [IEEE Brain](https://brain.ieee.org/) | Various Events Year-Round
+- [ASSFN (American Society for Stereotactic and Functional Neurosurgery)](https://www.cns.org/meetings-detail/american-society-stereotactic-functional-neurosurg-1) | June (Biennial)
 - [NANS (North American Neuromodulation Society)](https://conference.neuromodulation.org/) | January
+- [WSSFN (World Society for Stereotactic and Functional Neurosurgery)](https://www.wssfn.org/) | September-October
 - [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) | June (Biennial)
 - [GTEC BCI & Neurotechnology Summer School](https://www.gtec.at/) | July
 - [AANS (American Association of Neurological Surgeons)](https://www.aans.org/) | April
 - [CNS (Congress of Neurological Surgeons)](https://www.cns.org/) | September-October
 - [WFNS (World Federation of Neurosurgical Societies)](https://www.wfns.org/) | Biennial
 - [ACNS (American Clinical Neurophysiology Society)](https://www.acns.org/) | February
-- [ECNS (American Clinical Neurophysiology Society)](https://www.acns.org/) | February
 - [IASP (International Association for the Study of Pain)](https://www.iasp-pain.org/) | September (Biennial)
 - [NANS (North American Neuromodulation Society)](https://conference.neuromodulation.org/) | January
 - [INS (International Neuromodulation Society)](https://www.neuromodulation.com/) | June (Biennial)
