@@ -1,5 +1,4 @@
 # TopNeuroMLConf
-<img src="https://github.com/mrsaraei/TopNeuroMLConf/blob/9929b55202fe62ec8817704524df1b66770bbe11/figures/Title.png" alt="neuroscience">  
 
 ## Neuroscience
 **Neural Signal Analysis / Neuroengineering / Neuromodulation / Neurosurgery / Neurophysiology:**
